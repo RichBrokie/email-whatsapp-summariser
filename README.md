@@ -8,10 +8,9 @@ This project automates the process of fetching unread emails from a personal Out
 
 - 🔐 Secure authentication using MSAL device flow
 - 📧 Fetches unread emails from Microsoft Outlook via Graph API
-- 🧠 Summarizes email content using Gemini 1.5 Pro
+- 🧠 Summarizes email content using Gemini
 - 🧹 Filters out irrelevant senders (e.g., LinkedIn, Bloomberg)
 - 📲 Sends daily summaries to WhatsApp using Twilio Sandbox
-- 🖥️ Runs automatically via cron job on DietPi
 
 ## 🛠️ Tech Stack
 
